@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Praval Yadav",
+    "title": "Frontend Developer | Web Developer | Android Developer",
+    "summary": "Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML, PHP OOP, JavaScript, CSS, MySQL and Android Studio. Strong background in project management and customer relations.",
+    "location": "Noida, Uttar Pradesh, India",
+    "email": "pravalyadav0732@gmail.com",
+    "phone": "9084543343",
+    "links": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/pravalyadav0731"
+      },
+      {
+        "platform": "WhatsApp",
+        "url": "https://wa.me/919084543343"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Google for Developers",
+      "role": "Android Developer Intern",
+      "dates": "July 2024 – September 2024",
+      "location": "Remote",
+      "bullets": [
+        "Designation: Android Developer Intern",
+        "Period: July 2024 – September 2024"
+      ]
+    },
+    {
+      "company": "Prodigy InfoTech",
+      "role": "Web Development Intern",
+      "dates": "August 2024 – September 2024",
+      "location": "India",
+      "bullets": [
+        "Designation: Web Development Intern",
+        "Period: 1st August 2024 – 31st August 2024"
+      ]
+    },
+    {
+      "company": "EduSkills Academy",
+      "role": "Web Full Stack Development Intern",
+      "dates": "July 2024 – September 2024",
+      "location": "India",
+      "bullets": [
+        "Designation: Web Full Stack Development Intern",
+        "Period: July 2024 – September 2024"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Personal Portfolio Website",
+      "stack": "HTML, CSS, JavaScript",
+      "url": "https://github.com/pravalyadav0731",
+      "bullets": [
+        "Conceptualized and designed a personal portfolio website to showcase projects, skills, and experience.",
+        "Developed responsive, mobile friendly website using HTML, CSS, and JavaScript.",
+        "Implemented user-friendly navigation and intuitive UI/UX design principles for an enhanced user experience."
+      ]
+    },
+    {
+      "title": "AI BASED DISEASE DIAGNOSTIC SYSTEM : A NOVEL APPROACH",
+      "stack": "Artificial Intelligence",
+      "url": "http://ijaecs.iraj.in//paper_detail.php?paper_id=21631&nameAI_Based_Disease_Diagnostic_System_:_A_Novel_Approach",
+      "bullets": [
+        "Accurate diagnosis is essential for effective treatment, yet human error remains a challenge due to the complexity of interpreting medical data.",
+        "Artificial intelligence offers improved accuracy and efficiency in clinical diagnosis.",
+        "Explores the role of AI in expert systems and digital health identity verification."
+      ]
+    }
+  ],
+  "skills": [
+    { "name": "React.js", "category": "Frameworks", "level": 85 },
+    { "name": "Next.js", "category": "Frameworks", "level": 80 },
+    { "name": "JavaScript", "category": "Languages", "level": 90 },
+    { "name": "Python", "category": "Languages", "level": 75 },
+    { "name": "Java", "category": "Languages", "level": 70 },
+    { "name": "HTML", "category": "Languages", "level": 95 },
+    { "name": "CSS", "category": "Languages", "level": 90 },
+    { "name": "C Language", "category": "Languages", "level": 65 },
+    { "name": "PHP OOP", "category": "Backend", "level": 60 },
+    { "name": "MySQL", "category": "Backend", "level": 70 },
+    { "name": "Android Studio", "category": "Tools", "level": 80 },
+    { "name": "Tailwind CSS", "category": "Tools", "level": 85 },
+    { "name": "Teamwork", "category": "Soft", "level": 95 },
+    { "name": "Communication", "category": "Soft", "level": 90 },
+    { "name": "Leadership", "category": "Soft", "level": 85 },
+    { "name": "Time Management", "category": "Soft", "level": 80 }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Applications - MCA (Information Technology)",
+      "institute": "Galgotias University, Greater Noida",
+      "dates": "October 2023 - September 2025"
+    },
+    {
+      "degree": "Bachelor of Science - BSc (Mathematics and Statistics)",
+      "institute": "Dr. Bhim Rao Ambedkar University, Agra ",
+      "dates": "September 2020 - August 2023"
+    },
+    {
+       "degree": "Senior Secondary",
+       "institute": "S.B.P.S. Agra Road, Etah",
+       "dates": "2020"
+    },
+    {
+       "degree": "Secondary",
+       "institute": "S.V.M G.T. Road, Etah",
+       "dates": "2018"
+    }
+  ],
+  "certifications": [
+    { "name": "Embedded System Developer Virtual Internship", "url": "https://aictecert.eduskillsfoundation.org/pages/home/verify.php?cert=bbf79b7ca00524ad8944726f91f9c3ef" },
+    { "name": "Introduction to MS Excel", "url": "https://simpli-web.app.link/e/oTOzSnMApRb" },
+    { "name": "Web Development", "url": "https://prodigyinfotech.dev/verify?cin=PIT/AUG24/02933" },
+    { "name": "Android Developer Virtual Internship", "url": "https://aictecert.eduskillsfoundation.org/pages/home/verify.php?cert=95c98428355918b65636bfe496397c18" },
+    { "name": "Big Data Computing", "url": "https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS130S35400045204208607" },
+    { "name": "Cybersecurity Essentials ", "url": "https://www.credly.com/badges/88752ea7-cbbf-4f9d-88ba-e5f323acafc5" }
+  ],
+  "Personal Info": [
+    "DOB: 01/07/2003",
+    "Current Address: A 135, 1st Cross St, Block A, Beta 1, Gr. Noida – Pin Code (201308)"
+  ]
+}
