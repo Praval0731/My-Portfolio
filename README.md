@@ -1,20 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Praval Yadav - Professional Portfolio
 
-# Run and deploy your AI Studio app
+A premium, high-converting resume portfolio website featuring futuristic glassmorphism design, advanced scroll animations, and an interactive technical ecosystem visualization.
 
-This contains everything you need to run your app locally.
+## 🚀 Presentation Features
 
-View your app in AI Studio: https://ai.studio/apps/79d7e18e-625e-4f7e-9a87-8249ab536125
+- **Futuristic UI/UX**: Built with a sleek dark-mode aesthetic using Tailwind CSS and custom glassmorphism effects.
+- **Dynamic Projects Showcase**: Interactive cards featuring case studies and technical highlights.
+- **Advanced Navigation**: Smooth-scroll navigation with active section tracking across all major sections (Home, Experience, Projects, Skills, Education, Contact).
+- **Technical Ecosystem**: An interactive D3.js visualization of the technical skills and core stack.
+- **Professional Connect Grid**: High-fidelity contact boxes with themed interactions for LinkedIn, Phone, Email, and Location.
+- **PDF Export Ready**: Integrated system for generating professional PDF resumes.
+- **Splash Intro**: Engaging entrance animation for a premium first impression.
 
-## Run Locally
+## 🛠️ Built With
 
-**Prerequisites:**  Node.js
+- **React 19** - UI Framework
+- **Vite** - Build Tool
+- **Tailwind CSS 4** - Styling
+- **Framer Motion** - Animations & Transitions
+- **D3.js** - Data Visualization
+- **Lucide React** - Iconography
+- **React PDF** - PDF generation
 
+## 📂 Project Structure
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- `src/components/` - Reusable UI components and page sections.
+- `src/data/resume.json` - Centralized data source for all site content.
+- `src/lib/` - Utility functions and helpers.
+- `src/App.tsx` - Main application logic and section orchestration.
+
+## 🖥️ Getting Started
+
+1. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+2. **Run in development mode**:
+   ```bash
+   npm run dev
+   ```
+
+3. **Build for production**:
+   ```bash
+   npm run build
+   ```
+
+---
+Built for Impact & Results.

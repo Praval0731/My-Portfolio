@@ -1,6 +1,7 @@
 {
-  "name": "react-example",
+  "name": "praval-yadav-portfolio",
   "private": true,
+  "description": "A high-performance, futuristic portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
