@@ -29,5 +29,10 @@ jobs:
       - name: Build project
         run: npm run build
 
+      - name: Configure Git identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Deploy to gh-pages
         run: npx gh-pages -d dist
