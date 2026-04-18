@@ -36,12 +36,21 @@ A premium, high-converting resume portfolio website featuring futuristic glassmo
    npm install
    ```
 
-2. **Run in development mode**:
+2. **Configure for Deployment**:
+   Open `package.json` and replace `GITHUB_USERNAME` in the `homepage` field with your actual GitHub username.
+
+3. **Run in development mode**:
    ```bash
    npm run dev
    ```
 
-3. **Build for production**:
+4. **Deploy to GitHub Pages**:
+   Simply run the following command to build and deploy your site:
+   ```bash
+   npm run deploy
+   ```
+
+5. **Build for production manually**:
    ```bash
    npm run build
    ```
