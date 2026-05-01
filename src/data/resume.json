@@ -52,12 +52,12 @@
   "projects": [
     {
       "title": "Personal Portfolio Website",
-      "stack": "HTML, CSS, JavaScript",
+      "stack": "React, Tailwind CSS, Vite, Framer Motion, D3.js",
       "url": "https://praval0731.github.io/My-Portfolio/",
       "bullets": [
-        "Conceptualized and designed a personal portfolio website to showcase projects, skills, and experience.",
-        "Developed responsive, mobile friendly website using HTML, CSS, and JavaScript.",
-        "Implemented user-friendly navigation and intuitive UI/UX design principles for an enhanced user experience."
+        "Developed a responsive portfolio website using React and Tailwind CSS with modern UI/UX design.",
+        "Implemented animations and interactive visualizations using Framer Motion and D3.js to enhance user experience.",
+        "Built modular, scalable components with smooth navigation and centralized JSON-based data management."
       ]
     },
     {
